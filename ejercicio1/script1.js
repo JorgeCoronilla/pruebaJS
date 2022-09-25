@@ -1,3 +1,4 @@
+
 menu();
 
 function menu() {
@@ -104,5 +105,4 @@ function opcion2() {
     } else {
         alert("Tu frase no termina por a");
     }
-
 }
